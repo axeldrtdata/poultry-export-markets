@@ -77,7 +77,7 @@ Governance indicators (control of corruption, political stability, rule of law, 
 
 ## Note
 
-The notebooks are written in French, as they were produced during my OpenClassrooms Data Analyst training. The case study linked above presents the full project in English.
+The notebooks were first written in French during my OpenClassrooms Data Analyst training. Their text, comments and chart labels have since been translated into English; variable and column names were kept as in the original data.
 
 ---
 
